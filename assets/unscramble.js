@@ -5,7 +5,7 @@ var retryCount = 0;
 
 const element = document.getElementById('scramble');
 var temp_element = element.innerText;
-const email = 'resul.tugay@ed.ac.uk';
+const email = 'resultugay@hotmail.com';
 const email_length = email.length;
 
 const randomInt = (max) => Math.floor(Math.random() * max);
